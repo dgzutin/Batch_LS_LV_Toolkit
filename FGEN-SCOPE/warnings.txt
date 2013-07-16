@@ -1,0 +1,22 @@
+C:\elvis\server\ExperimentSetups\instruments\FGEN-SCOPE\NI ELVIS - Close Wrap.vi
+    - The VI expected to be at "<instrlib>:\NI ELVIS\NI ELVIS.llb\NI ELVIS - Close.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS.llb\NI ELVIS - Close.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl".
+C:\elvis\server\ExperimentSetups\instruments\FGEN-SCOPE\NI ELVIS - Initialize Wrap.vi
+    - The VI expected to be at "<instrlib>:\NI ELVIS\NI ELVIS.llb\NI ELVIS - Initialize.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS.llb\NI ELVIS - Initialize.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl".
+C:\elvis\server\ExperimentSetups\instruments\OpAmpInverter\CloseELVIS.vi
+    - The VI expected to be at "<userlib>:\ELVIS Source Code\Launcher\NI ELVIS - Close Wrap.vi" was loaded from "C:\elvis\server\ExperimentSetups\instruments\FGEN-SCOPE\NI ELVIS - Close Wrap.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl".
+C:\elvis\server\ExperimentSetups\instruments\OpAmpInverter\CloseFGEN.vi
+    - The VI expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Close.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Close.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - FGEN Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - FGEN Refnum.ctl".
+C:\elvis\server\ExperimentSetups\instruments\OpAmpInverter\InitializeELVIS.vi
+    - The VI expected to be at "<userlib>:\ELVIS Source Code\Launcher\NI ELVIS - Initialize Wrap.vi" was loaded from "C:\elvis\server\ExperimentSetups\instruments\FGEN-SCOPE\NI ELVIS - Initialize Wrap.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - NI ELVIS Refnum.ctl".
+C:\elvis\server\ExperimentSetups\instruments\OpAmpInverter\InitializeFGEN.vi
+    - The VI expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Initialize (device).vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Initialize (device).vi".
+    - The VI expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Initialize.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Initialize.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - FGEN Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - FGEN Refnum.ctl".
+C:\elvis\server\ExperimentSetups\instruments\OpAmpInverter\RunFGEN.vi
+    - The VI expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Update.vi" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - FGEN.llb\NI ELVIS FGEN - Update.vi".
+    - The control expected to be at "<instrlib>:\NI ELVIS\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - FGEN Refnum.ctl" was loaded from "C:\Program Files\National Instruments\LabVIEW 8.5\instr.lib\NI ELVIS Traditional\NI ELVIS - RSCMAN.llb\ELVIS RSCMAN - FGEN Refnum.ctl".

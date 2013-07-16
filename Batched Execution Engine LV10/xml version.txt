@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE experimentSpecification SYSTEM "http://olid.mit.edu/xml/experimentSpecification.dtd">
+<experimentSpecification lab="MIT NI-ELVIS Weblab" specversion="0.1">
+<setupID>1</setupID>
+<PACString>{?xml version="1.0"?}{PacDesignData}{DocFmtVersion}1{/DocFmtVersion}{DeviceType}ispPAC10{/DeviceType}{FuseMap}00000000000000000011000000000000000000000000110000000000000000000000001100000000000000000000000011000000000000000000000000000000000000000000000000000000000000000000000000000000000{/FuseMap}{SummaryInformation}{Title}{/Title}{Subject}{/Subject}{Author}CTI{/Author}{Keywords}ispPAC10{/Keywords}{Comments}{![CDATA[]]}{/Comments}{/SummaryInformation}{/PacDesignData}</PACString>
+<terminal instrumentType="FGEN" instrumentNumber="1">
+<vname download="true">Vin</vname>
+<function type="WAVEFORM">
+<waveformType>SINE</waveformType>
+<frequency>100.0</frequency>
+<amplitude>1.0</amplitude>
+<offset>0.0</offset>
+<connInput>0</connInput>
+</function></terminal>
+<terminal instrumentType="SCOPE" instrumentNumber="2">
+<vname download="true">Vout</vname>
+<function type="SAMPLING">
+<samplingRate>100000</samplingRate>
+<samplingTime>0.01</samplingTime>
+<connProbe_CHA>0</connProbe_CHA>
+<coupling>1</coupling>
+<triggerSource>0</triggerSource>
+<connProbe_CHB>0</connProbe_CHB>
+</function>
+</terminal>
+</experimentSpecification>
