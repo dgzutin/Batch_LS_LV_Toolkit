@@ -8,5 +8,6 @@ It performs the following actions:
 4. handles the parameters over to the specific LV VI 
 5. executes the experiment
 6. and writes the experiment result into the database to be retrieved by the Service Broker.
+7. And so on..
 
 It was designed for the MIT ELVIS Lab Server, but it should work work as a general solution for any batched lab.
